@@ -1,0 +1,6 @@
+﻿  Source.cpp
+E:\Self Study\Mostafa Saad Udemy courses\Mastering critical skills in algorithms using C++\Part 1\My_Work\Sorting\Source.cpp(216,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Self Study\Mostafa Saad Udemy courses\Mastering critical skills in algorithms using C++\Part 1\My_Work\Sorting\Source.cpp(247,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Self Study\Mostafa Saad Udemy courses\Mastering critical skills in algorithms using C++\Part 1\My_Work\Sorting\Source.cpp(359,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Self Study\Mostafa Saad Udemy courses\Mastering critical skills in algorithms using C++\Part 1\My_Work\Sorting\Source.cpp(283): warning C4715: 'eliminateMaximum': not all control paths return a value
+  Sorting.vcxproj -> E:\Self Study\Mostafa Saad Udemy courses\Mastering critical skills in algorithms using C++\Part 1\My_Work\Sorting\x64\Debug\Sorting.exe

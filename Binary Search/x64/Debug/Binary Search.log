@@ -1,0 +1,17 @@
+﻿  Source.cpp
+E:\Self Study\Mostafa Saad Udemy courses\Mastering critical skills in algorithms using C++\Part 1\My_Work\Binary Search\Source.cpp(66,19): warning C4244: '=': conversion from '__int64' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+E:\Self Study\Mostafa Saad Udemy courses\Mastering critical skills in algorithms using C++\Part 1\My_Work\Binary Search\Source.cpp(67,35): warning C4244: '=': conversion from '__int64' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+E:\Self Study\Mostafa Saad Udemy courses\Mastering critical skills in algorithms using C++\Part 1\My_Work\Binary Search\Source.cpp(89,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Self Study\Mostafa Saad Udemy courses\Mastering critical skills in algorithms using C++\Part 1\My_Work\Binary Search\Source.cpp(114,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Self Study\Mostafa Saad Udemy courses\Mastering critical skills in algorithms using C++\Part 1\My_Work\Binary Search\Source.cpp(127,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Self Study\Mostafa Saad Udemy courses\Mastering critical skills in algorithms using C++\Part 1\My_Work\Binary Search\Source.cpp(232,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Self Study\Mostafa Saad Udemy courses\Mastering critical skills in algorithms using C++\Part 1\My_Work\Binary Search\Source.cpp(258,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Binary Search.vcxproj -> E:\Self Study\Mostafa Saad Udemy courses\Mastering critical skills in algorithms using C++\Part 1\My_Work\Binary Search\x64\Debug\Binary Search.exe
